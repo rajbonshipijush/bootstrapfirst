@@ -1,0 +1,50 @@
+
+
+
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+.underline{
+    border-bottom: 5px solid #000;
+    width:7%;
+    margin:20px auto;
+}
+header {
+    background-color: #87509c;
+}
+/* service section */
+#service{
+    background-color: #17c2a4;
+    
+}
+/* team section */
+#team{
+    background-color: #e7f1f8;
+}
+#team .box p{
+    margin: 20px 0px
+}
+.team-icon-box{
+    margin-top: 10px;
+}
+.team-icon-box i {
+    font-size: 17px;
+    background-color: rgb(255, 255, 255);
+    padding: 12px;
+    width: 45px;
+    
+  }
+  /* skill section */
+
+  /* portfolio section */
+  #portfolio{
+    background-color: #ffdd99;
+  }
+  #about_us_part{
+    background-color: #D74680;
+    
+ }
+#about_us_box_part{
+    margin-top: 50px;
+}
+
